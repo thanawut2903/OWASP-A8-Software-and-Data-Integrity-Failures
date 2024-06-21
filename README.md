@@ -30,3 +30,5 @@ Insecure Deserialization
   -  การตรวจสอบข้อมูลก่อนที่จะนำไป deserialized เพื่อตรวจสอบความถูกต้องและความปลอดภัย
 
   -  การใช้เทคโนโลยีที่มีมาตรการความปลอดภัยในการ deserialization และการจัดการข้อมูลที่ถูกบันทึกอย่างปลอดภัย
+
+Video การทำ Insecure Deserialization : 
